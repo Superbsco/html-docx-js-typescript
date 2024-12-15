@@ -45,7 +45,7 @@
   "author": {
     "name": "hsp",
     "email": "847740441@qq.com",
-    "url": "https://abc.com/"
+    "url": "https://github.com/Superbsco"
   },
   "keywords": [
     "html-docx-js",
@@ -54,5 +54,13 @@
     "typescript",
     "html-to-docx"
   ],
-  "license": "MIT"
+  "license": "MIT",
+   "homepage": "https://github.com/Superbsco/html-docx-js-typescript1#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Superbsco/html-docx-js-typescript1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Superbsco/html-docx-js-typescript1/issues"
+  }
 }
