@@ -43,7 +43,7 @@
     "release": "npm version patch && npm publish --registry http://registry.npmjs.org"
   },
   "author": {
-    "name": "hsp",
+    "name": "Superbsco",
     "email": "847740441@qq.com",
     "url": "https://github.com/Superbsco"
   },
